@@ -13,4 +13,12 @@ class DoctorDirectionInline(admin.TabularInline):
 	
 	
 class DoctorAdmin(admin.ModelAdmin):
-	list_display = ['profile', '']
+	list_display = ['pk', 'display_full_name', 'age']
+	list_display_links = ['pk', 'display_full_name']
+	inlines = [DoctorDirectionInline, DoctorInfoInline]
+
+	def display_full_name(self, obj):
+		return f'{obj.first_name} {obj.last_name} {obj.surname}'
+
+
+admin.site.register(Doctor, DoctorAdmin)

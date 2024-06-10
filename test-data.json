@@ -1,0 +1,877 @@
+[
+  {
+    "id": 1,
+    "name": "Rizaev Boxodir Kamolovich",
+    "image": "https://nordin.by/wp-content/uploads/2022/12/doctor-full.jpg",
+    "age": 52,
+    "disease": "Kattalar hastaliklari",
+    "doctor": "Xirurg",
+    "direction": [
+      "Qon bosimini ortishi",
+      "Tana haroratini ortishi",
+      "Bo`g`imlarda og`riq",
+      "Yurak muammolari"
+    ],
+    "edication": "25 yillik stajga ega",
+    "work": "Respublika xirurgiya ilmiy-amaliy tibbiyot markazi",
+    "information": "2006 yil Toshkent tibbiyot akademiyasini tufatgan. 2008 yil magistraturaning 'Xirurgiya' yo`nalishida taqsil olgan. 2010-2012 yillarda 'Kardio-Servis' xususiy tashkilotida ishlagan",
+    "info": "Qon bosimini ortishi, Tana haroratini ortishi, Bo`g`imlarda og`riq, Yurak muammolari, Tomoq og`rig`i"
+  },
+  {
+    "id": 2,
+    "name": "Shermatov Norqo`zi Ilhamovich",
+    "image": "https://photo-ideal.ru/upload/resize_cache/iblock/e9c/436_591_249dc9130545c5ea77856799b48f99ef6/FPD_2558_2.jpg",
+    "age": 26,
+    "disease": "Kattalar hastaliklari",
+    "doctor": "Xirurg",
+    "direction": [
+      "Qon bosimini ortishi",
+      "Tana haroratini ortishi",
+      "Bo`g`imlarda og`riq",
+      "Yurak muammolari",
+      "Operatsiyadan keyingi muammolar"
+    ],
+    "edication": "2 yillik stajga ega",
+    "work": "Respublika shoshilinch ilmiy-amaliy tibbiyot markazi",
+    "information": "2006 yil Toshkent tibbiyot akademiyasini tufatgan. 2008 yil magistraturaning 'Xirurgiya' yo`nalishida taqsil olgan. 2010-2012 yillarda 'Kardio-Servis' xususiy tashkilotida ishlagan",
+    "info": "Qon bosimini ortishi, Tana haroratini ortishi, Bo`g`imlarda og`riq, Yurak muammolari, Tomoq og`rig`i, Qorin og`rig`i"
+  },
+  {
+    "id": 3,
+    "name": "Inagamova Dilbar Naumovna",
+    "image": "https://img.freepik.com/free-photo/doctor-holding-clipboard-looking-at-camera_23-2148285743.jpg",
+    "age": 58,
+    "disease": "Kattalar hastaliklari",
+    "doctor": "Terapevt",
+    "direction": [
+      "Bosh og`rig`i",
+      "Shamollash",
+      "Allergiya",
+      "Peshob ajratishdagi muammolar",
+      "Bel og`rig`i",
+      "Quloq og`rig`i"
+    ],
+    "edication": "35 yillik stajga ega",
+    "work": "Respublika terapiya ilmiy-amaliy tibbiyot markazi",
+    "information": "2006 yil Toshkent tibbiyot akademiyasini tufatgan. 2008 yil magistraturaning 'Xirurgiya' yo`nalishida taqsil olgan. 2010-2012 yillarda 'Kardio-Servis' xususiy tashkilotida ishlagan",
+    "info": "Qon bosimini ortishi, Tana haroratini ortishi, Bo`g`imlarda og`riq, Yurak muammolari, Tomoq og`rig`i"
+  },
+  {
+    "id": 4,
+    "name": "Karimova Guli Ilhamovna",
+    "image": "https://276709.selcdn.ru/proektoria/new/professions/2020/03/24/8f85517967795eeef66c225f7883bdcb/2019-12-08_15-22-58.jpg",
+    "age": 32,
+    "disease": "Kattalar hastaliklari",
+    "doctor": "Terapevt",
+    "direction": [
+      "Ovqat hazm bo`lmasligi",
+      "Qorin og`rig`i",
+      "Qandli diabet",
+      "Homiladorlik",
+      "Tekshiruvlar tahlili",
+      "Operatsiyadan keyingi muammolar",
+      "Homiladorlik"
+    ],
+    "edication": "21 yillik stajga ega",
+    "work": "Respublika shoshilinch ilmiy-amaliy tibbiyot markazi",
+    "information": "2006 yil Toshkent tibbiyot akademiyasini tufatgan. 2008 yil magistraturaning 'Xirurgiya' yo`nalishida taqsil olgan. 2010-2012 yillarda 'Kardio-Servis' xususiy tashkilotida ishlagan",
+    "info": "Qon bosimini ortishi, Tana haroratini ortishi, Bo`g`imlarda og`riq, Yurak muammolari, Tomoq og`rig`i, Qorin og`rig`i"
+  },
+  {
+    "id": 5,
+    "name": "Rizaev Boxodir Kamolovich",
+    "image": "https://docacademy.com.ua/wp-content/uploads/2019/02/dhffdh-1.jpg",
+    "age": 68,
+    "disease": "Kattalar hastaliklari",
+    "doctor": "Travmatolog",
+    "direction": [
+      "Qon bosimini ortishi",
+      "Tana haroratini ortishi",
+      "Bo`g`imlarda og`riq",
+      "Yurak muammolari",
+      "Operatsiyadan keyingi muammolar",
+      "Quloq og`rig`i"
+    ],
+    "edication": "32 yillik stajga ega",
+    "work": "Respublika travmatologiya ilmiy-amaliy tibbiyot markazi",
+    "information": "2006 yil Toshkent tibbiyot akademiyasini tufatgan. 2008 yil magistraturaning 'Xirurgiya' yo`nalishida taqsil olgan. 2010-2012 yillarda 'Kardio-Servis' xususiy tashkilotida ishlagan",
+    "info": "Qon bosimini ortishi, Tana haroratini ortishi, Bo`g`imlarda og`riq, Yurak muammolari, Tomoq og`rig`i"
+  },
+  {
+    "id": 6,
+    "name": "Shermatov Norqo`zi Ilhamovich",
+    "image": "https://media.istockphoto.com/id/1372002650/ru/%D1%84%D0%BE%D1%82%D0%BE/%D0%BE%D0%B1%D1%80%D0%B5%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B9-%D0%BF%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82-%D0%BF%D1%80%D0%B8%D0%B2%D0%BB%D0%B5%D0%BA%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B9-%D0%BC%D0%BE%D0%BB%D0%BE%D0%B4%D0%BE%D0%B9-%D0%B6%D0%B5%D0%BD%D1%89%D0%B8%D0%BD%D1%8B-%D0%B2%D1%80%D0%B0%D1%87%D0%B0-%D1%81%D1%82%D0%BE%D1%8F%D1%89%D0%B5%D0%B9-%D1%81%D0%BE-%D1%81%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%BD%D1%8B%D0%BC%D0%B8-%D1%80%D1%83%D0%BA%D0%B0%D0%BC%D0%B8-%D0%B2.jpg?s=612x612&w=0&k=20&c=ZvlKdLihjMD-SGIKLNkU4t5wCqDpOYRMkSFIkYO-pv8=",
+    "age": 32,
+    "disease": "Kattalar hastaliklari",
+    "doctor": "Travmatolog",
+    "direction": [
+      "Qon bosimini ortishi",
+      "Tana haroratini ortishi",
+      "Bo`g`imlarda og`riq",
+      "Yurak muammolari",
+      "Operatsiyadan keyingi muammolar"
+    ],
+    "edication": "6 yillik stajga ega",
+    "work": "Respublika shoshilinch ilmiy-amaliy tibbiyot markazi",
+    "information": "2006 yil Toshkent tibbiyot akademiyasini tufatgan. 2008 yil magistraturaning 'Xirurgiya' yo`nalishida taqsil olgan. 2010-2012 yillarda 'Kardio-Servis' xususiy tashkilotida ishlagan",
+    "info": "Qon bosimini ortishi, Tana haroratini ortishi, Bo`g`imlarda og`riq, Yurak muammolari, Tomoq og`rig`i, Qorin og`rig`i"
+  },
+  {
+    "id": 7,
+    "name": "Rizanov Aleksandr Kamolovich",
+    "image": "https://evmd.ru/wp-content/uploads/2023/01/64987684-000-1024x768.jpg",
+    "age": 72,
+    "disease": "Kattalar hastaliklari",
+    "doctor": "Kardiolog",
+    "direction": [
+      "Qon bosimini ortishi",
+      "Tana haroratini ortishi",
+      "Bo`g`imlarda og`riq",
+      "Yurak muammolari",
+      "Homiladorlik"
+    ],
+    "edication": "14 yillik stajga ega",
+    "work": "Respublika xirurgiya ilmiy-amaliy tibbiyot markazi",
+    "information": "2006 yil Toshkent tibbiyot akademiyasini tufatgan. 2008 yil magistraturaning 'Xirurgiya' yo`nalishida taqsil olgan. 2010-2012 yillarda 'Kardio-Servis' xususiy tashkilotida ishlagan",
+    "info": "Qon bosimini ortishi, Tana haroratini ortishi, Bo`g`imlarda og`riq, Yurak muammolari, Tomoq og`rig`i"
+  },
+  {
+    "id": 8,
+    "name": "Suvorova Nina Aleksandrovna",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpnwe-XDM0xIwNfEALudARux628BDXoGmXJA&s",
+    "age": 36,
+    "disease": "Kattalar hastaliklari",
+    "doctor": "Kardiolog",
+    "direction": [
+      "Qon bosimini ortishi",
+      "Tana haroratini ortishi",
+      "Bo`g`imlarda og`riq",
+      "Yurak muammolari",
+      "Operatsiyadan keyingi muammolar"
+    ],
+    "edication": "2 yillik stajga ega",
+    "work": "Respublika shoshilinch ilmiy-amaliy tibbiyot markazi",
+    "information": "2006 yil Toshkent tibbiyot akademiyasini tufatgan. 2008 yil magistraturaning 'Xirurgiya' yo`nalishida taqsil olgan. 2010-2012 yillarda 'Kardio-Servis' xususiy tashkilotida ishlagan",
+    "info": "Qon bosimini ortishi, Tana haroratini ortishi, Bo`g`imlarda og`riq, Yurak muammolari, Tomoq og`rig`i, Qorin og`rig`i"
+  },
+  {
+    "id": 9,
+    "name": "Inamov Gayrat Maratovich",
+    "image": "https://img.freepik.com/free-photo/hospital-healthcare-workers-covid-19-treatment-concept-young-doctor-in-scrubs-making-daily-errands-clinic-listening-to-patient-symptoms-look-camera-professional-physician-curing-diseases_1258-57233.jpg",
+    "age": 47,
+    "disease": "Kattalar hastaliklari",
+    "doctor": "Allergolog",
+    "direction": [
+      "Qon bosimini ortishi",
+      "Tana haroratini ortishi",
+      "Bo`g`imlarda og`riq",
+      "Yurak muammolari"
+    ],
+    "edication": "25 yillik stajga ega",
+    "work": "Respublika xirurgiya ilmiy-amaliy tibbiyot markazi",
+    "information": "2006 yil Toshkent tibbiyot akademiyasini tufatgan. 2008 yil magistraturaning 'Xirurgiya' yo`nalishida taqsil olgan. 2010-2012 yillarda 'Kardio-Servis' xususiy tashkilotida ishlagan",
+    "info": "Qon bosimini ortishi, Tana haroratini ortishi, Bo`g`imlarda og`riq, Yurak muammolari, Tomoq og`rig`i"
+  },
+  {
+    "id": 10,
+    "name": "Kurganov Barat Kadirovich",
+    "image": "https://www.bobrmedcollege.by/links/entrant__career-guidance__files/entrant__career-guidance__about-the-profession-1.jpg",
+    "age": 46,
+    "disease": "Kattalar hastaliklari",
+    "doctor": "Allergolog",
+    "direction": [
+      "Qon bosimini ortishi",
+      "Tana haroratini ortishi",
+      "Bo`g`imlarda og`riq",
+      "Yurak muammolari",
+      "Operatsiyadan keyingi muammolar"
+    ],
+    "edication": "2 yillik stajga ega",
+    "work": "Respublika shoshilinch ilmiy-amaliy tibbiyot markazi",
+    "information": "2006 yil Toshkent tibbiyot akademiyasini tufatgan. 2008 yil magistraturaning 'Xirurgiya' yo`nalishida taqsil olgan. 2010-2012 yillarda 'Kardio-Servis' xususiy tashkilotida ishlagan",
+    "info": "Qon bosimini ortishi, Tana haroratini ortishi, Bo`g`imlarda og`riq, Yurak muammolari, Tomoq og`rig`i, Qorin og`rig`i"
+  },
+  {
+    "id": 11,
+    "name": "Xaydarova Dilbar Naumovna",
+    "image": "https://lh4.googleusercontent.com/proxy/um5Tb1Ne3yJGmdMjKN9hpnawikligXfqohnmVpnVIdKSOGuGJ1teNNDkgUkcXII3aqiwehwB-qGYIkEBxQp6vh-lbn2hWLfgWsVw9eU",
+    "age": 58,
+    "disease": "Kattalar hastaliklari",
+    "doctor": "Terapevt",
+    "direction": [
+      "Bosh og`rig`i",
+      "Shamollash",
+      "Allergiya",
+      "Peshob ajratishdagi muammolar",
+      "Bel og`rig`i",
+      "Quloq og`rig`i"
+    ],
+    "edication": "35 yillik stajga ega",
+    "work": "Respublika terapiya ilmiy-amaliy tibbiyot markazi",
+    "information": "2006 yil Toshkent tibbiyot akademiyasini tufatgan. 2008 yil magistraturaning 'Xirurgiya' yo`nalishida taqsil olgan. 2010-2012 yillarda 'Kardio-Servis' xususiy tashkilotida ishlagan",
+    "info": "Qon bosimini ortishi, Tana haroratini ortishi, Bo`g`imlarda og`riq, Yurak muammolari, Tomoq og`rig`i"
+  },
+  {
+    "id": 12,
+    "name": "Karimov Gulmurod Ilhamovich",
+    "image": "https://kartinki.pics/uploads/posts/2022-02/1645541605_5-kartinkin-net-p-kartinki-vrachi-6.jpg",
+    "age": 62,
+    "disease": "Kattalar hastaliklari",
+    "doctor": "Nevropatolog",
+    "direction": [
+      "Ovqat hazm bo`lmasligi",
+      "Qorin og`rig`i",
+      "Qandli diabet",
+      "Homiladorlik",
+      "Tekshiruvlar tahlili",
+      "Operatsiyadan keyingi muammolar",
+      "Homiladorlik"
+    ],
+    "edication": "21 yillik stajga ega",
+    "work": "Respublika shoshilinch ilmiy-amaliy tibbiyot markazi",
+    "information": "2006 yil Toshkent tibbiyot akademiyasini tufatgan. 2008 yil magistraturaning 'Xirurgiya' yo`nalishida taqsil olgan. 2010-2012 yillarda 'Kardio-Servis' xususiy tashkilotida ishlagan",
+    "info": "Qon bosimini ortishi, Tana haroratini ortishi, Bo`g`imlarda og`riq, Yurak muammolari, Tomoq og`rig`i, Qorin og`rig`i"
+  },
+  {
+    "id": 13,
+    "name": "Rizaeva Samira Fuatovna",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp20OQkY0gBprinHVlODOXrYeERGhEUmf3Dk1LLv6Tvuz6coYz7DcB8qIKTi7OVcKMH74&usqp=CAU",
+    "age": 68,
+    "disease": "Kattalar hastaliklari",
+    "doctor": "Nevropatolog",
+    "direction": [
+      "Qon bosimini ortishi",
+      "Tana haroratini ortishi",
+      "Bo`g`imlarda og`riq",
+      "Yurak muammolari",
+      "Operatsiyadan keyingi muammolar",
+      "Quloq og`rig`i"
+    ],
+    "edication": "32 yillik stajga ega",
+    "work": "Respublika travmatologiya ilmiy-amaliy tibbiyot markazi",
+    "information": "2006 yil Toshkent tibbiyot akademiyasini tufatgan. 2008 yil magistraturaning 'Xirurgiya' yo`nalishida taqsil olgan. 2010-2012 yillarda 'Kardio-Servis' xususiy tashkilotida ishlagan",
+    "info": "Qon bosimini ortishi, Tana haroratini ortishi, Bo`g`imlarda og`riq, Yurak muammolari, Tomoq og`rig`i"
+  },
+  {
+    "id": 14,
+    "name": "Shermatova Nodira Ilhamovna",
+    "image": "https://klike.net/uploads/posts/2023-07/1690340958_2-13.jpg",
+    "age": 32,
+    "disease": "Kattalar hastaliklari",
+    "doctor": "Okulist",
+    "direction": [
+      "Qon bosimini ortishi",
+      "Tana haroratini ortishi",
+      "Bo`g`imlarda og`riq",
+      "Yurak muammolari",
+      "Operatsiyadan keyingi muammolar"
+    ],
+    "edication": "6 yillik stajga ega",
+    "work": "Respublika shoshilinch ilmiy-amaliy tibbiyot markazi",
+    "information": "2006 yil Toshkent tibbiyot akademiyasini tufatgan. 2008 yil magistraturaning 'Xirurgiya' yo`nalishida taqsil olgan. 2010-2012 yillarda 'Kardio-Servis' xususiy tashkilotida ishlagan",
+    "info": "Qon bosimini ortishi, Tana haroratini ortishi, Bo`g`imlarda og`riq, Yurak muammolari, Tomoq og`rig`i, Qorin og`rig`i"
+  },
+  {
+    "id": 15,
+    "name": "Rizanov Aleksandr Kamolovich",
+    "image": "https://evmd.ru/wp-content/uploads/2023/01/64987684-000-1024x768.jpg",
+    "age": 72,
+    "disease": "Kattalar hastaliklari",
+    "doctor": "Okulist",
+    "direction": [
+      "Qon bosimini ortishi",
+      "Tana haroratini ortishi",
+      "Bo`g`imlarda og`riq",
+      "Yurak muammolari",
+      "Homiladorlik"
+    ],
+    "edication": "14 yillik stajga ega",
+    "work": "Respublika xirurgiya ilmiy-amaliy tibbiyot markazi",
+    "information": "2006 yil Toshkent tibbiyot akademiyasini tufatgan. 2008 yil magistraturaning 'Xirurgiya' yo`nalishida taqsil olgan. 2010-2012 yillarda 'Kardio-Servis' xususiy tashkilotida ishlagan",
+    "info": "Qon bosimini ortishi, Tana haroratini ortishi, Bo`g`imlarda og`riq, Yurak muammolari, Tomoq og`rig`i"
+  },
+  {
+    "id": 16,
+    "name": "Suvorova Nina Aleksandrovna",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpnwe-XDM0xIwNfEALudARux628BDXoGmXJA&s",
+    "age": 36,
+    "disease": "Kattalar hastaliklari",
+    "doctor": "Ginegolog",
+    "direction": [
+      "Qon bosimini ortishi",
+      "Tana haroratini ortishi",
+      "Bo`g`imlarda og`riq",
+      "Yurak muammolari",
+      "Operatsiyadan keyingi muammolar"
+    ],
+    "edication": "2 yillik stajga ega",
+    "work": "Respublika shoshilinch ilmiy-amaliy tibbiyot markazi",
+    "information": "2006 yil Toshkent tibbiyot akademiyasini tufatgan. 2008 yil magistraturaning 'Xirurgiya' yo`nalishida taqsil olgan. 2010-2012 yillarda 'Kardio-Servis' xususiy tashkilotida ishlagan",
+    "info": "Qon bosimini ortishi, Tana haroratini ortishi, Bo`g`imlarda og`riq, Yurak muammolari, Tomoq og`rig`i, Qorin og`rig`i"
+  },
+  {
+    "id": 17,
+    "name": "Rizaev Boxodir Kamolovich",
+    "image": "https://nordin.by/wp-content/uploads/2022/12/doctor-full.jpg",
+    "age": 52,
+    "disease": "Kattalar hastaliklari",
+    "doctor": "Ginekolog",
+    "direction": [
+      "Qon bosimini ortishi",
+      "Tana haroratini ortishi",
+      "Bo`g`imlarda og`riq",
+      "Yurak muammolari"
+    ],
+    "edication": "25 yillik stajga ega",
+    "work": "Respublika xirurgiya ilmiy-amaliy tibbiyot markazi",
+    "information": "2006 yil Toshkent tibbiyot akademiyasini tufatgan. 2008 yil magistraturaning 'Xirurgiya' yo`nalishida taqsil olgan. 2010-2012 yillarda 'Kardio-Servis' xususiy tashkilotida ishlagan",
+    "info": "Qon bosimini ortishi, Tana haroratini ortishi, Bo`g`imlarda og`riq, Yurak muammolari, Tomoq og`rig`i"
+  },
+  {
+    "id": 18,
+    "name": "Shermatov Norqo`zi Ilhamovich",
+    "image": "https://photo-ideal.ru/upload/resize_cache/iblock/e9c/436_591_249dc9130545c5ea77856799b48f99ef6/FPD_2558_2.jpg",
+    "age": 26,
+    "disease": "Kattalar hastaliklari",
+    "doctor": "Pulmonolog",
+    "direction": [
+      "Qon bosimini ortishi",
+      "Tana haroratini ortishi",
+      "Bo`g`imlarda og`riq",
+      "Yurak muammolari",
+      "Operatsiyadan keyingi muammolar"
+    ],
+    "edication": "2 yillik stajga ega",
+    "work": "Respublika shoshilinch ilmiy-amaliy tibbiyot markazi",
+    "information": "2006 yil Toshkent tibbiyot akademiyasini tufatgan. 2008 yil magistraturaning 'Xirurgiya' yo`nalishida taqsil olgan. 2010-2012 yillarda 'Kardio-Servis' xususiy tashkilotida ishlagan",
+    "info": "Qon bosimini ortishi, Tana haroratini ortishi, Bo`g`imlarda og`riq, Yurak muammolari, Tomoq og`rig`i, Qorin og`rig`i"
+  },
+  {
+    "id": 19,
+    "name": "Inagamova Dilbar Naumovna",
+    "image": "https://img.freepik.com/free-photo/doctor-holding-clipboard-looking-at-camera_23-2148285743.jpg",
+    "age": 58,
+    "disease": "Kattalar hastaliklari",
+    "doctor": "Pulmonolog",
+    "direction": [
+      "Bosh og`rig`i",
+      "Shamollash",
+      "Allergiya",
+      "Peshob ajratishdagi muammolar",
+      "Bel og`rig`i",
+      "Quloq og`rig`i"
+    ],
+    "edication": "35 yillik stajga ega",
+    "work": "Respublika terapiya ilmiy-amaliy tibbiyot markazi",
+    "information": "2006 yil Toshkent tibbiyot akademiyasini tufatgan. 2008 yil magistraturaning 'Xirurgiya' yo`nalishida taqsil olgan. 2010-2012 yillarda 'Kardio-Servis' xususiy tashkilotida ishlagan",
+    "info": "Qon bosimini ortishi, Tana haroratini ortishi, Bo`g`imlarda og`riq, Yurak muammolari, Tomoq og`rig`i"
+  },
+  {
+    "id": 20,
+    "name": "Karimova Guli Ilhamovna",
+    "image": "https://276709.selcdn.ru/proektoria/new/professions/2020/03/24/8f85517967795eeef66c225f7883bdcb/2019-12-08_15-22-58.jpg",
+    "age": 32,
+    "disease": "Kattalar hastaliklari",
+    "doctor": "Urolog",
+    "direction": [
+      "Ovqat hazm bo`lmasligi",
+      "Qorin og`rig`i",
+      "Qandli diabet",
+      "Homiladorlik",
+      "Tekshiruvlar tahlili",
+      "Operatsiyadan keyingi muammolar",
+      "Homiladorlik"
+    ],
+    "edication": "21 yillik stajga ega",
+    "work": "Respublika shoshilinch ilmiy-amaliy tibbiyot markazi",
+    "information": "2006 yil Toshkent tibbiyot akademiyasini tufatgan. 2008 yil magistraturaning 'Xirurgiya' yo`nalishida taqsil olgan. 2010-2012 yillarda 'Kardio-Servis' xususiy tashkilotida ishlagan",
+    "info": "Qon bosimini ortishi, Tana haroratini ortishi, Bo`g`imlarda og`riq, Yurak muammolari, Tomoq og`rig`i, Qorin og`rig`i"
+  },
+  {
+    "id": 21,
+    "name": "Rizaev Boxodir Kamolovich",
+    "image": "https://docacademy.com.ua/wp-content/uploads/2019/02/dhffdh-1.jpg",
+    "age": 68,
+    "disease": "Kattalar hastaliklari",
+    "doctor": "Urolog",
+    "direction": [
+      "Qon bosimini ortishi",
+      "Tana haroratini ortishi",
+      "Bo`g`imlarda og`riq",
+      "Yurak muammolari",
+      "Operatsiyadan keyingi muammolar",
+      "Quloq og`rig`i"
+    ],
+    "edication": "32 yillik stajga ega",
+    "work": "Respublika travmatologiya ilmiy-amaliy tibbiyot markazi",
+    "information": "2006 yil Toshkent tibbiyot akademiyasini tufatgan. 2008 yil magistraturaning 'Xirurgiya' yo`nalishida taqsil olgan. 2010-2012 yillarda 'Kardio-Servis' xususiy tashkilotida ishlagan",
+    "info": "Qon bosimini ortishi, Tana haroratini ortishi, Bo`g`imlarda og`riq, Yurak muammolari, Tomoq og`rig`i"
+  },
+  {
+    "id": 22,
+    "name": "Shermatov Norqo`zi Ilhamovich",
+    "image": "https://media.istockphoto.com/id/1372002650/ru/%D1%84%D0%BE%D1%82%D0%BE/%D0%BE%D0%B1%D1%80%D0%B5%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B9-%D0%BF%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82-%D0%BF%D1%80%D0%B8%D0%B2%D0%BB%D0%B5%D0%BA%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B9-%D0%BC%D0%BE%D0%BB%D0%BE%D0%B4%D0%BE%D0%B9-%D0%B6%D0%B5%D0%BD%D1%89%D0%B8%D0%BD%D1%8B-%D0%B2%D1%80%D0%B0%D1%87%D0%B0-%D1%81%D1%82%D0%BE%D1%8F%D1%89%D0%B5%D0%B9-%D1%81%D0%BE-%D1%81%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%BD%D1%8B%D0%BC%D0%B8-%D1%80%D1%83%D0%BA%D0%B0%D0%BC%D0%B8-%D0%B2.jpg?s=612x612&w=0&k=20&c=ZvlKdLihjMD-SGIKLNkU4t5wCqDpOYRMkSFIkYO-pv8=",
+    "age": 32,
+    "disease": "Kattalar hastaliklari",
+    "doctor": "Endokrinolog",
+    "direction": [
+      "Qon bosimini ortishi",
+      "Tana haroratini ortishi",
+      "Bo`g`imlarda og`riq",
+      "Yurak muammolari",
+      "Operatsiyadan keyingi muammolar"
+    ],
+    "edication": "6 yillik stajga ega",
+    "work": "Respublika shoshilinch ilmiy-amaliy tibbiyot markazi",
+    "information": "2006 yil Toshkent tibbiyot akademiyasini tufatgan. 2008 yil magistraturaning 'Xirurgiya' yo`nalishida taqsil olgan. 2010-2012 yillarda 'Kardio-Servis' xususiy tashkilotida ishlagan",
+    "info": "Qon bosimini ortishi, Tana haroratini ortishi, Bo`g`imlarda og`riq, Yurak muammolari, Tomoq og`rig`i, Qorin og`rig`i"
+  },
+  {
+    "id": 24,
+    "name": "Rizanov Aleksandr Kamolovich",
+    "image": "https://evmd.ru/wp-content/uploads/2023/01/64987684-000-1024x768.jpg",
+    "age": 72,
+    "disease": "Kattalar hastaliklari",
+    "doctor": "Kardiolog",
+    "direction": [
+      "Qon bosimini ortishi",
+      "Tana haroratini ortishi",
+      "Bo`g`imlarda og`riq",
+      "Yurak muammolari",
+      "Homiladorlik"
+    ],
+    "edication": "14 yillik stajga ega",
+    "work": "Respublika xirurgiya ilmiy-amaliy tibbiyot markazi",
+    "information": "2006 yil Toshkent tibbiyot akademiyasini tufatgan. 2008 yil magistraturaning 'Xirurgiya' yo`nalishida taqsil olgan. 2010-2012 yillarda 'Kardio-Servis' xususiy tashkilotida ishlagan",
+    "info": "Qon bosimini ortishi, Tana haroratini ortishi, Bo`g`imlarda og`riq, Yurak muammolari, Tomoq og`rig`i"
+  },
+  {
+    "id": 25,
+    "name": "Suvorova Nina Aleksandrovna",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpnwe-XDM0xIwNfEALudARux628BDXoGmXJA&s",
+    "age": 36,
+    "disease": "Kattalar hastaliklari",
+    "doctor": "Dermatolog",
+    "direction": [
+      "Qon bosimini ortishi",
+      "Tana haroratini ortishi",
+      "Bo`g`imlarda og`riq",
+      "Yurak muammolari",
+      "Operatsiyadan keyingi muammolar"
+    ],
+    "edication": "2 yillik stajga ega",
+    "work": "Respublika shoshilinch ilmiy-amaliy tibbiyot markazi",
+    "information": "2006 yil Toshkent tibbiyot akademiyasini tufatgan. 2008 yil magistraturaning 'Xirurgiya' yo`nalishida taqsil olgan. 2010-2012 yillarda 'Kardio-Servis' xususiy tashkilotida ishlagan",
+    "info": "Qon bosimini ortishi, Tana haroratini ortishi, Bo`g`imlarda og`riq, Yurak muammolari, Tomoq og`rig`i, Qorin og`rig`i"
+  },
+  {
+    "id": 26,
+    "name": "Inamov Gayrat Maratovich",
+    "image": "https://img.freepik.com/free-photo/hospital-healthcare-workers-covid-19-treatment-concept-young-doctor-in-scrubs-making-daily-errands-clinic-listening-to-patient-symptoms-look-camera-professional-physician-curing-diseases_1258-57233.jpg",
+    "age": 47,
+    "disease": "Kattalar hastaliklari",
+    "doctor": "Dermatolog",
+    "direction": [
+      "Qon bosimini ortishi",
+      "Tana haroratini ortishi",
+      "Bo`g`imlarda og`riq",
+      "Yurak muammolari"
+    ],
+    "edication": "25 yillik stajga ega",
+    "work": "Respublika xirurgiya ilmiy-amaliy tibbiyot markazi",
+    "information": "2006 yil Toshkent tibbiyot akademiyasini tufatgan. 2008 yil magistraturaning 'Xirurgiya' yo`nalishida taqsil olgan. 2010-2012 yillarda 'Kardio-Servis' xususiy tashkilotida ishlagan",
+    "info": "Qon bosimini ortishi, Tana haroratini ortishi, Bo`g`imlarda og`riq, Yurak muammolari, Tomoq og`rig`i"
+  },
+  {
+    "id": 27,
+    "name": "Kurganov Barat Kadirovich",
+    "image": "https://www.bobrmedcollege.by/links/entrant__career-guidance__files/entrant__career-guidance__about-the-profession-1.jpg",
+    "age": 46,
+    "disease": "Kattalar hastaliklari",
+    "doctor": "Psixolog",
+    "direction": [
+      "Qon bosimini ortishi",
+      "Tana haroratini ortishi",
+      "Bo`g`imlarda og`riq",
+      "Yurak muammolari",
+      "Operatsiyadan keyingi muammolar"
+    ],
+    "edication": "2 yillik stajga ega",
+    "work": "Respublika shoshilinch ilmiy-amaliy tibbiyot markazi",
+    "information": "2006 yil Toshkent tibbiyot akademiyasini tufatgan. 2008 yil magistraturaning 'Xirurgiya' yo`nalishida taqsil olgan. 2010-2012 yillarda 'Kardio-Servis' xususiy tashkilotida ishlagan",
+    "info": "Qon bosimini ortishi, Tana haroratini ortishi, Bo`g`imlarda og`riq, Yurak muammolari, Tomoq og`rig`i, Qorin og`rig`i"
+  },
+  {
+    "id": 28,
+    "name": "Xaydarova Dilbar Naumovna",
+    "image": "https://lh4.googleusercontent.com/proxy/um5Tb1Ne3yJGmdMjKN9hpnawikligXfqohnmVpnVIdKSOGuGJ1teNNDkgUkcXII3aqiwehwB-qGYIkEBxQp6vh-lbn2hWLfgWsVw9eU",
+    "age": 58,
+    "disease": "Kattalar hastaliklari",
+    "doctor": "Psixolog",
+    "direction": [
+      "Bosh og`rig`i",
+      "Shamollash",
+      "Allergiya",
+      "Peshob ajratishdagi muammolar",
+      "Bel og`rig`i",
+      "Quloq og`rig`i"
+    ],
+    "edication": "35 yillik stajga ega",
+    "work": "Respublika terapiya ilmiy-amaliy tibbiyot markazi",
+    "information": "2006 yil Toshkent tibbiyot akademiyasini tufatgan. 2008 yil magistraturaning 'Xirurgiya' yo`nalishida taqsil olgan. 2010-2012 yillarda 'Kardio-Servis' xususiy tashkilotida ishlagan",
+    "info": "Qon bosimini ortishi, Tana haroratini ortishi, Bo`g`imlarda og`riq, Yurak muammolari, Tomoq og`rig`i"
+  },
+  {
+    "id": 29,
+    "name": "Karimov Gulmurod Ilhamovich",
+    "image": "https://kartinki.pics/uploads/posts/2022-02/1645541605_5-kartinkin-net-p-kartinki-vrachi-6.jpg",
+    "age": 62,
+    "disease": "Bolalar hastaliklari",
+    "doctor": "Pediatr",
+    "direction": [
+      "Ovqat hazm bo`lmasligi",
+      "Qorin og`rig`i",
+      "Qandli diabet",
+      "Homiladorlik",
+      "Tekshiruvlar tahlili",
+      "Operatsiyadan keyingi muammolar",
+      "Homiladorlik"
+    ],
+    "edication": "21 yillik stajga ega",
+    "work": "Respublika shoshilinch ilmiy-amaliy tibbiyot markazi",
+    "information": "2006 yil Toshkent tibbiyot akademiyasini tufatgan. 2008 yil magistraturaning 'Xirurgiya' yo`nalishida taqsil olgan. 2010-2012 yillarda 'Kardio-Servis' xususiy tashkilotida ishlagan",
+    "info": "Qon bosimini ortishi, Tana haroratini ortishi, Bo`g`imlarda og`riq, Yurak muammolari, Tomoq og`rig`i, Qorin og`rig`i"
+  },
+  {
+    "id": 30,
+    "name": "Rizaeva Samira Fuatovna",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp20OQkY0gBprinHVlODOXrYeERGhEUmf3Dk1LLv6Tvuz6coYz7DcB8qIKTi7OVcKMH74&usqp=CAU",
+    "age": 68,
+    "disease": "Bolalar hastaliklari",
+    "doctor": "Pediatr",
+    "direction": [
+      "Qon bosimini ortishi",
+      "Tana haroratini ortishi",
+      "Bo`g`imlarda og`riq",
+      "Yurak muammolari",
+      "Operatsiyadan keyingi muammolar",
+      "Quloq og`rig`i"
+    ],
+    "edication": "32 yillik stajga ega",
+    "work": "Respublika travmatologiya ilmiy-amaliy tibbiyot markazi",
+    "information": "2006 yil Toshkent tibbiyot akademiyasini tufatgan. 2008 yil magistraturaning 'Xirurgiya' yo`nalishida taqsil olgan. 2010-2012 yillarda 'Kardio-Servis' xususiy tashkilotida ishlagan",
+    "info": "Qon bosimini ortishi, Tana haroratini ortishi, Bo`g`imlarda og`riq, Yurak muammolari, Tomoq og`rig`i"
+  },
+  {
+    "id": 31,
+    "name": "Shermatova Nodira Ilhamovna",
+    "image": "https://klike.net/uploads/posts/2023-07/1690340958_2-13.jpg",
+    "age": 32,
+    "disease": "Bolalar hastaliklari",
+    "doctor": "Xirurg",
+    "direction": [
+      "Qon bosimini ortishi",
+      "Tana haroratini ortishi",
+      "Bo`g`imlarda og`riq",
+      "Yurak muammolari",
+      "Operatsiyadan keyingi muammolar"
+    ],
+    "edication": "6 yillik stajga ega",
+    "work": "Respublika shoshilinch ilmiy-amaliy tibbiyot markazi",
+    "information": "2006 yil Toshkent tibbiyot akademiyasini tufatgan. 2008 yil magistraturaning 'Xirurgiya' yo`nalishida taqsil olgan. 2010-2012 yillarda 'Kardio-Servis' xususiy tashkilotida ishlagan",
+    "info": "Qon bosimini ortishi, Tana haroratini ortishi, Bo`g`imlarda og`riq, Yurak muammolari, Tomoq og`rig`i, Qorin og`rig`i"
+  },
+  {
+    "id": 32,
+    "name": "Rizanov Aleksandr Kamolovich",
+    "image": "https://evmd.ru/wp-content/uploads/2023/01/64987684-000-1024x768.jpg",
+    "age": 72,
+    "disease": "Bolalar hastaliklari",
+    "doctor": "Xirurg",
+    "direction": [
+      "Qon bosimini ortishi",
+      "Tana haroratini ortishi",
+      "Bo`g`imlarda og`riq",
+      "Yurak muammolari",
+      "Homiladorlik"
+    ],
+    "edication": "14 yillik stajga ega",
+    "work": "Respublika xirurgiya ilmiy-amaliy tibbiyot markazi",
+    "information": "2006 yil Toshkent tibbiyot akademiyasini tufatgan. 2008 yil magistraturaning 'Xirurgiya' yo`nalishida taqsil olgan. 2010-2012 yillarda 'Kardio-Servis' xususiy tashkilotida ishlagan",
+    "info": "Qon bosimini ortishi, Tana haroratini ortishi, Bo`g`imlarda og`riq, Yurak muammolari, Tomoq og`rig`i"
+  },
+  {
+    "id": 33,
+    "name": "Inamov Gayrat Maratovich",
+    "image": "https://img.freepik.com/free-photo/hospital-healthcare-workers-covid-19-treatment-concept-young-doctor-in-scrubs-making-daily-errands-clinic-listening-to-patient-symptoms-look-camera-professional-physician-curing-diseases_1258-57233.jpg",
+    "age": 47,
+    "disease": "Bolalar hastaliklari",
+    "doctor": "Allergolog",
+    "direction": [
+      "Qon bosimini ortishi",
+      "Tana haroratini ortishi",
+      "Bo`g`imlarda og`riq",
+      "Yurak muammolari"
+    ],
+    "edication": "25 yillik stajga ega",
+    "work": "Respublika xirurgiya ilmiy-amaliy tibbiyot markazi",
+    "information": "2006 yil Toshkent tibbiyot akademiyasini tufatgan. 2008 yil magistraturaning 'Xirurgiya' yo`nalishida taqsil olgan. 2010-2012 yillarda 'Kardio-Servis' xususiy tashkilotida ishlagan",
+    "info": "Qon bosimini ortishi, Tana haroratini ortishi, Bo`g`imlarda og`riq, Yurak muammolari, Tomoq og`rig`i"
+  },
+  {
+    "id": 34,
+    "name": "Kurganov Barat Kadirovich",
+    "image": "https://www.bobrmedcollege.by/links/entrant__career-guidance__files/entrant__career-guidance__about-the-profession-1.jpg",
+    "age": 46,
+    "disease": "Bolalar hastaliklari",
+    "doctor": "Allergolog",
+    "direction": [
+      "Qon bosimini ortishi",
+      "Tana haroratini ortishi",
+      "Bo`g`imlarda og`riq",
+      "Yurak muammolari",
+      "Operatsiyadan keyingi muammolar"
+    ],
+    "edication": "2 yillik stajga ega",
+    "work": "Respublika shoshilinch ilmiy-amaliy tibbiyot markazi",
+    "information": "2006 yil Toshkent tibbiyot akademiyasini tufatgan. 2008 yil magistraturaning 'Xirurgiya' yo`nalishida taqsil olgan. 2010-2012 yillarda 'Kardio-Servis' xususiy tashkilotida ishlagan",
+    "info": "Qon bosimini ortishi, Tana haroratini ortishi, Bo`g`imlarda og`riq, Yurak muammolari, Tomoq og`rig`i, Qorin og`rig`i"
+  },
+  {
+    "id": 35,
+    "name": "Inagamova Dilbar Naumovna",
+    "image": "https://img.freepik.com/free-photo/doctor-holding-clipboard-looking-at-camera_23-2148285743.jpg",
+    "age": 58,
+    "disease": "Bolalar hastaliklari",
+    "doctor": "LOR",
+    "direction": [
+      "Bosh og`rig`i",
+      "Shamollash",
+      "Allergiya",
+      "Peshob ajratishdagi muammolar",
+      "Bel og`rig`i",
+      "Quloq og`rig`i"
+    ],
+    "edication": "35 yillik stajga ega",
+    "work": "Respublika terapiya ilmiy-amaliy tibbiyot markazi",
+    "information": "2006 yil Toshkent tibbiyot akademiyasini tufatgan. 2008 yil magistraturaning 'Xirurgiya' yo`nalishida taqsil olgan. 2010-2012 yillarda 'Kardio-Servis' xususiy tashkilotida ishlagan",
+    "info": "Qon bosimini ortishi, Tana haroratini ortishi, Bo`g`imlarda og`riq, Yurak muammolari, Tomoq og`rig`i"
+  },
+  {
+    "id": 36,
+    "name": "Karimova Guli Ilhamovna",
+    "image": "https://276709.selcdn.ru/proektoria/new/professions/2020/03/24/8f85517967795eeef66c225f7883bdcb/2019-12-08_15-22-58.jpg",
+    "age": 32,
+    "disease": "Bolalar hastaliklari",
+    "doctor": "LOR",
+    "direction": [
+      "Ovqat hazm bo`lmasligi",
+      "Qorin og`rig`i",
+      "Qandli diabet",
+      "Homiladorlik",
+      "Tekshiruvlar tahlili",
+      "Operatsiyadan keyingi muammolar",
+      "Homiladorlik"
+    ],
+    "edication": "21 yillik stajga ega",
+    "work": "Respublika shoshilinch ilmiy-amaliy tibbiyot markazi",
+    "information": "2006 yil Toshkent tibbiyot akademiyasini tufatgan. 2008 yil magistraturaning 'Xirurgiya' yo`nalishida taqsil olgan. 2010-2012 yillarda 'Kardio-Servis' xususiy tashkilotida ishlagan",
+    "info": "Qon bosimini ortishi, Tana haroratini ortishi, Bo`g`imlarda og`riq, Yurak muammolari, Tomoq og`rig`i, Qorin og`rig`i"
+  },
+  {
+    "id": 37,
+    "name": "Rizaev Boxodir Kamolovich",
+    "image": "https://docacademy.com.ua/wp-content/uploads/2019/02/dhffdh-1.jpg",
+    "age": 68,
+    "disease": "Bolalar hastaliklari",
+    "doctor": "Okulist",
+    "direction": [
+      "Qon bosimini ortishi",
+      "Tana haroratini ortishi",
+      "Bo`g`imlarda og`riq",
+      "Yurak muammolari",
+      "Operatsiyadan keyingi muammolar",
+      "Quloq og`rig`i"
+    ],
+    "edication": "32 yillik stajga ega",
+    "work": "Respublika travmatologiya ilmiy-amaliy tibbiyot markazi",
+    "information": "2006 yil Toshkent tibbiyot akademiyasini tufatgan. 2008 yil magistraturaning 'Xirurgiya' yo`nalishida taqsil olgan. 2010-2012 yillarda 'Kardio-Servis' xususiy tashkilotida ishlagan",
+    "info": "Qon bosimini ortishi, Tana haroratini ortishi, Bo`g`imlarda og`riq, Yurak muammolari, Tomoq og`rig`i"
+  },
+  {
+    "id": 38,
+    "name": "Shermatov Norqo`zi Ilhamovich",
+    "image": "https://media.istockphoto.com/id/1372002650/ru/%D1%84%D0%BE%D1%82%D0%BE/%D0%BE%D0%B1%D1%80%D0%B5%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B9-%D0%BF%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82-%D0%BF%D1%80%D0%B8%D0%B2%D0%BB%D0%B5%D0%BA%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B9-%D0%BC%D0%BE%D0%BB%D0%BE%D0%B4%D0%BE%D0%B9-%D0%B6%D0%B5%D0%BD%D1%89%D0%B8%D0%BD%D1%8B-%D0%B2%D1%80%D0%B0%D1%87%D0%B0-%D1%81%D1%82%D0%BE%D1%8F%D1%89%D0%B5%D0%B9-%D1%81%D0%BE-%D1%81%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%BD%D1%8B%D0%BC%D0%B8-%D1%80%D1%83%D0%BA%D0%B0%D0%BC%D0%B8-%D0%B2.jpg?s=612x612&w=0&k=20&c=ZvlKdLihjMD-SGIKLNkU4t5wCqDpOYRMkSFIkYO-pv8=",
+    "age": 32,
+    "disease": "Bolalar hastaliklari",
+    "doctor": "Okulist",
+    "direction": [
+      "Qon bosimini ortishi",
+      "Tana haroratini ortishi",
+      "Bo`g`imlarda og`riq",
+      "Yurak muammolari",
+      "Operatsiyadan keyingi muammolar"
+    ],
+    "edication": "6 yillik stajga ega",
+    "work": "Respublika shoshilinch ilmiy-amaliy tibbiyot markazi",
+    "information": "2006 yil Toshkent tibbiyot akademiyasini tufatgan. 2008 yil magistraturaning 'Xirurgiya' yo`nalishida taqsil olgan. 2010-2012 yillarda 'Kardio-Servis' xususiy tashkilotida ishlagan",
+    "info": "Qon bosimini ortishi, Tana haroratini ortishi, Bo`g`imlarda og`riq, Yurak muammolari, Tomoq og`rig`i, Qorin og`rig`i"
+  },
+  {
+    "id": 39,
+    "name": "Karimov Gulmurod Ilhamovich",
+    "image": "https://kartinki.pics/uploads/posts/2022-02/1645541605_5-kartinkin-net-p-kartinki-vrachi-6.jpg",
+    "age": 62,
+    "disease": "Bolalar hastaliklari",
+    "doctor": "Nevropatolog",
+    "direction": [
+      "Ovqat hazm bo`lmasligi",
+      "Qorin og`rig`i",
+      "Qandli diabet",
+      "Homiladorlik",
+      "Tekshiruvlar tahlili",
+      "Operatsiyadan keyingi muammolar",
+      "Homiladorlik"
+    ],
+    "edication": "21 yillik stajga ega",
+    "work": "Respublika shoshilinch ilmiy-amaliy tibbiyot markazi",
+    "information": "2006 yil Toshkent tibbiyot akademiyasini tufatgan. 2008 yil magistraturaning 'Xirurgiya' yo`nalishida taqsil olgan. 2010-2012 yillarda 'Kardio-Servis' xususiy tashkilotida ishlagan",
+    "info": "Qon bosimini ortishi, Tana haroratini ortishi, Bo`g`imlarda og`riq, Yurak muammolari, Tomoq og`rig`i, Qorin og`rig`i"
+  },
+  {
+    "id": 40,
+    "name": "Rizaeva Samira Fuatovna",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp20OQkY0gBprinHVlODOXrYeERGhEUmf3Dk1LLv6Tvuz6coYz7DcB8qIKTi7OVcKMH74&usqp=CAU",
+    "age": 68,
+    "disease": "Bolalar hastaliklari",
+    "doctor": "Nevropatolog",
+    "direction": [
+      "Qon bosimini ortishi",
+      "Tana haroratini ortishi",
+      "Bo`g`imlarda og`riq",
+      "Yurak muammolari",
+      "Operatsiyadan keyingi muammolar",
+      "Quloq og`rig`i"
+    ],
+    "edication": "32 yillik stajga ega",
+    "work": "Respublika travmatologiya ilmiy-amaliy tibbiyot markazi",
+    "information": "2006 yil Toshkent tibbiyot akademiyasini tufatgan. 2008 yil magistraturaning 'Xirurgiya' yo`nalishida taqsil olgan. 2010-2012 yillarda 'Kardio-Servis' xususiy tashkilotida ishlagan",
+    "info": "Qon bosimini ortishi, Tana haroratini ortishi, Bo`g`imlarda og`riq, Yurak muammolari, Tomoq og`rig`i"
+  },
+  {
+    "id": 41,
+    "name": "Karimova Guli Ilhamovna",
+    "image": "https://276709.selcdn.ru/proektoria/new/professions/2020/03/24/8f85517967795eeef66c225f7883bdcb/2019-12-08_15-22-58.jpg",
+    "age": 32,
+    "disease": "Bolalar hastaliklari",
+    "doctor": "Urolog",
+    "direction": [
+      "Ovqat hazm bo`lmasligi",
+      "Qorin og`rig`i",
+      "Qandli diabet",
+      "Homiladorlik",
+      "Tekshiruvlar tahlili",
+      "Operatsiyadan keyingi muammolar",
+      "Homiladorlik"
+    ],
+    "edication": "21 yillik stajga ega",
+    "work": "Respublika shoshilinch ilmiy-amaliy tibbiyot markazi",
+    "information": "2006 yil Toshkent tibbiyot akademiyasini tufatgan. 2008 yil magistraturaning 'Xirurgiya' yo`nalishida taqsil olgan. 2010-2012 yillarda 'Kardio-Servis' xususiy tashkilotida ishlagan",
+    "info": "Qon bosimini ortishi, Tana haroratini ortishi, Bo`g`imlarda og`riq, Yurak muammolari, Tomoq og`rig`i, Qorin og`rig`i"
+  },
+  {
+    "id": 42,
+    "name": "Rizaev Boxodir Kamolovich",
+    "image": "https://docacademy.com.ua/wp-content/uploads/2019/02/dhffdh-1.jpg",
+    "age": 68,
+    "disease": "Bolalar hastaliklari",
+    "doctor": "Urolog",
+    "direction": [
+      "Qon bosimini ortishi",
+      "Tana haroratini ortishi",
+      "Bo`g`imlarda og`riq",
+      "Yurak muammolari",
+      "Operatsiyadan keyingi muammolar",
+      "Quloq og`rig`i"
+    ],
+    "edication": "32 yillik stajga ega",
+    "work": "Respublika travmatologiya ilmiy-amaliy tibbiyot markazi",
+    "information": "2006 yil Toshkent tibbiyot akademiyasini tufatgan. 2008 yil magistraturaning 'Xirurgiya' yo`nalishida taqsil olgan. 2010-2012 yillarda 'Kardio-Servis' xususiy tashkilotida ishlagan",
+    "info": "Qon bosimini ortishi, Tana haroratini ortishi, Bo`g`imlarda og`riq, Yurak muammolari, Tomoq og`rig`i"
+  },
+  {
+    "id": 43,
+    "name": "Shermatov Norqo`zi Ilhamovich",
+    "image": "https://media.istockphoto.com/id/1372002650/ru/%D1%84%D0%BE%D1%82%D0%BE/%D0%BE%D0%B1%D1%80%D0%B5%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B9-%D0%BF%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82-%D0%BF%D1%80%D0%B8%D0%B2%D0%BB%D0%B5%D0%BA%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B9-%D0%BC%D0%BE%D0%BB%D0%BE%D0%B4%D0%BE%D0%B9-%D0%B6%D0%B5%D0%BD%D1%89%D0%B8%D0%BD%D1%8B-%D0%B2%D1%80%D0%B0%D1%87%D0%B0-%D1%81%D1%82%D0%BE%D1%8F%D1%89%D0%B5%D0%B9-%D1%81%D0%BE-%D1%81%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%BD%D1%8B%D0%BC%D0%B8-%D1%80%D1%83%D0%BA%D0%B0%D0%BC%D0%B8-%D0%B2.jpg?s=612x612&w=0&k=20&c=ZvlKdLihjMD-SGIKLNkU4t5wCqDpOYRMkSFIkYO-pv8=",
+    "age": 32,
+    "disease": "Bolalar hastaliklari",
+    "doctor": "Endokrinolog",
+    "direction": [
+      "Qon bosimini ortishi",
+      "Tana haroratini ortishi",
+      "Bo`g`imlarda og`riq",
+      "Yurak muammolari",
+      "Operatsiyadan keyingi muammolar"
+    ],
+    "edication": "6 yillik stajga ega",
+    "work": "Respublika shoshilinch ilmiy-amaliy tibbiyot markazi",
+    "information": "2006 yil Toshkent tibbiyot akademiyasini tufatgan. 2008 yil magistraturaning 'Xirurgiya' yo`nalishida taqsil olgan. 2010-2012 yillarda 'Kardio-Servis' xususiy tashkilotida ishlagan",
+    "info": "Qon bosimini ortishi, Tana haroratini ortishi, Bo`g`imlarda og`riq, Yurak muammolari, Tomoq og`rig`i, Qorin og`rig`i"
+  },
+  {
+    "id": 44,
+    "name": "Rizanov Aleksandr Kamolovich",
+    "image": "https://evmd.ru/wp-content/uploads/2023/01/64987684-000-1024x768.jpg",
+    "age": 72,
+    "disease": "Bolalar hastaliklari",
+    "doctor": "Endokrinolog",
+    "direction": [
+      "Qon bosimini ortishi",
+      "Tana haroratini ortishi",
+      "Bo`g`imlarda og`riq",
+      "Yurak muammolari",
+      "Homiladorlik"
+    ],
+    "edication": "14 yillik stajga ega",
+    "work": "Respublika xirurgiya ilmiy-amaliy tibbiyot markazi",
+    "information": "2006 yil Toshkent tibbiyot akademiyasini tufatgan. 2008 yil magistraturaning 'Xirurgiya' yo`nalishida taqsil olgan. 2010-2012 yillarda 'Kardio-Servis' xususiy tashkilotida ishlagan",
+    "info": "Qon bosimini ortishi, Tana haroratini ortishi, Bo`g`imlarda og`riq, Yurak muammolari, Tomoq og`rig`i"
+  },
+  {
+    "id": 45,
+    "name": "Suvorova Nina Aleksandrovna",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpnwe-XDM0xIwNfEALudARux628BDXoGmXJA&s",
+    "age": 36,
+    "disease": "Bolalar hastaliklari",
+    "doctor": "Dermatolog",
+    "direction": [
+      "Qon bosimini ortishi",
+      "Tana haroratini ortishi",
+      "Bo`g`imlarda og`riq",
+      "Yurak muammolari",
+      "Operatsiyadan keyingi muammolar"
+    ],
+    "edication": "2 yillik stajga ega",
+    "work": "Respublika shoshilinch ilmiy-amaliy tibbiyot markazi",
+    "information": "2006 yil Toshkent tibbiyot akademiyasini tufatgan. 2008 yil magistraturaning 'Xirurgiya' yo`nalishida taqsil olgan. 2010-2012 yillarda 'Kardio-Servis' xususiy tashkilotida ishlagan",
+    "info": "Qon bosimini ortishi, Tana haroratini ortishi, Bo`g`imlarda og`riq, Yurak muammolari, Tomoq og`rig`i, Qorin og`rig`i"
+  },
+  {
+    "id": 46,
+    "name": "Inamov Gayrat Maratovich",
+    "image": "https://img.freepik.com/free-photo/hospital-healthcare-workers-covid-19-treatment-concept-young-doctor-in-scrubs-making-daily-errands-clinic-listening-to-patient-symptoms-look-camera-professional-physician-curing-diseases_1258-57233.jpg",
+    "age": 47,
+    "disease": "Bolalar hastaliklari",
+    "doctor": "Dermatolog",
+    "direction": [
+      "Qon bosimini ortishi",
+      "Tana haroratini ortishi",
+      "Bo`g`imlarda og`riq",
+      "Yurak muammolari"
+    ],
+    "edication": "25 yillik stajga ega",
+    "work": "Respublika xirurgiya ilmiy-amaliy tibbiyot markazi",
+    "information": "2006 yil Toshkent tibbiyot akademiyasini tufatgan. 2008 yil magistraturaning 'Xirurgiya' yo`nalishida taqsil olgan. 2010-2012 yillarda 'Kardio-Servis' xususiy tashkilotida ishlagan",
+    "info": "Qon bosimini ortishi, Tana haroratini ortishi, Bo`g`imlarda og`riq, Yurak muammolari, Tomoq og`rig`i"
+  }
+]
