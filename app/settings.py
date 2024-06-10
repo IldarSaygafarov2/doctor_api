@@ -6,7 +6,9 @@ SECRET_KEY = 'django-insecure-awmp5y8lg8v4$#rh(m^n#2!$ozw*^as6!+fpg4@j9-j+*o=ayz
 
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+	'labes28846.pythonanywhere.com'
+]
 
 INSTALLED_APPS = [
 	'jazzmin',
@@ -85,6 +87,7 @@ USE_I18N = True
 USE_TZ = True
 
 STATIC_URL = 'static/'
+STATIC_ROOT = BASE_DIR / 'static'
 MEDIA_URL = 'media/'
 MEDIA_ROOT = BASE_DIR / 'media'
 
