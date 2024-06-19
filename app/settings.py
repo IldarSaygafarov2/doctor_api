@@ -1,4 +1,5 @@
 from pathlib import Path
+from datetime import timedelta
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 
@@ -7,7 +8,8 @@ SECRET_KEY = 'django-insecure-awmp5y8lg8v4$#rh(m^n#2!$ozw*^as6!+fpg4@j9-j+*o=ayz
 DEBUG = True
 
 ALLOWED_HOSTS = [
-	'labes28846.pythonanywhere.com'
+	'labes28846.pythonanywhere.com',
+	'127.0.0.1'
 ]
 
 INSTALLED_APPS = [
@@ -19,6 +21,7 @@ INSTALLED_APPS = [
 	'django.contrib.messages',
 	'django.contrib.staticfiles',
 	'rest_framework',
+	'rest_framework_simplejwt',
 	'drf_spectacular',
 
 	
@@ -96,5 +99,14 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 AUTH_USER_MODEL = 'users.User'
 REST_FRAMEWORK = {
-	'DEFAULT_SCHEMA_CLASS': "drf_spectacular.openapi.AutoSchema"
+	'DEFAULT_SCHEMA_CLASS': "drf_spectacular.openapi.AutoSchema",
+	# 'DEFAULT_PERMISSION_CLASSES': 'rest_framework.permissions.IsAuthenticated',
+	# 'DEFAULT_AUTHENTICATION_CLASSES': 'rest_framework_simplejwt.authentication.JWTAuthentication'
+}
+SIMPLE_JWT = {
+    'ACCESS_TOKEN_LIFETIME': timedelta(minutes=60),
+    'SLIDING_TOKEN_REFRESH_LIFETIME': timedelta(days=1),
+    'SLIDING_TOKEN_LIFETIME': timedelta(days=30),
+    'SLIDING_TOKEN_REFRESH_LIFETIME_LATE_USER': timedelta(days=1),
+    'SLIDING_TOKEN_LIFETIME_LATE_USER': timedelta(days=30),
 }

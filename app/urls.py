@@ -4,8 +4,11 @@ from django.conf import settings
 from django.conf.urls.static import static
 from drf_spectacular.views import SpectacularSwaggerView, SpectacularAPIView
 
+
 urlpatterns = [
     path('admin/', admin.site.urls),
+    
+
     
     path('api/users/', include('users.urls')),
     path('api/doctors/', include('api.urls')),
