@@ -8,7 +8,7 @@ class UserCustomAdmin(UserAdmin):
 	list_display_links = ['first_name', 'email']
 	fieldsets = (
 		(None, {"fields": ("username", "password")}),
-		(_("Personal info"), {"fields": ("first_name", "last_name", "surname", "email")}),
+		(_("Personal info"), {"fields": ("first_name", "last_name", "surname", "email", 'birth_date')}),
 		(
 			_("Permissions"),
 			{
